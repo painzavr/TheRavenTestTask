@@ -1,9 +1,7 @@
-package com.example.demo.customer.annotation;
+package com.example.demo.customer.annotation.phone;
 
-import com.example.demo.customer.annotation.ValidPhone;
 import jakarta.validation.ConstraintValidator;
 import jakarta.validation.ConstraintValidatorContext;
-
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
