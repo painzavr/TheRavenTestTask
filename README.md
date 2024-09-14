@@ -91,3 +91,5 @@ This project implements a basic CRUD (Create, Read, Update, Delete) API for mana
 - **email:** varchar
 - **phone:** varchar (nullable)
 - **is_active:** bool
+
+For a quick start - `https://github.com/painzavr/testTaskjar`
